@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Data Storage</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">User Email</string>
+    <string name="insert">Insert</string>
+    <string name="view">View</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="user_id">User Id</string>
+</resources>
